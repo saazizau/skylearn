@@ -34,8 +34,12 @@ Lihat detail rencana pengembangan di [📘 docs/roadmap.md](docs/roadmap.md)
 
 ## 👩‍💻 Tim Pengembang
 
-- **Sabrina Aziz Aulia** – Lead Researcher & Developer  
-  Fokus: Deep Learning, Computer Vision, dan Time Series Forecasting
+- 🌟 **Algae Desma Fridasary** — *Ketua Tim & Visioner Utama*  
+  Pemilik ide dan penggerak utama proyek. Berfokus pada penulisan artikel ilmiah serta deployment sistem.  
+
+- 🎓 **Sabrina Aziz Aulia** — *Mentor & Spesialis Komputasi*  
+  Memberikan arahan strategis dan pendampingan teknis, terutama dalam aspek komputasi dan pemodelan data.  
+
 
 ---
 
@@ -43,3 +47,4 @@ Lihat detail rencana pengembangan di [📘 docs/roadmap.md](docs/roadmap.md)
 
 
 Proyek ini dirilis di bawah lisensi **MIT**.
+
