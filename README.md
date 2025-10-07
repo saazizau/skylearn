@@ -1,7 +1,7 @@
 # 🧠 SKYLEARN
 
 **SKYLEARN** adalah proyek komprehensif untuk analisis dan pemrosesan citra satelit sekolah di Indonesia menggunakan pendekatan *Machine Learning* dan *Deep Learning*.  
-Proyek ini dibagi menjadi beberapa modul yang saling terhubung — mulai dari scraping data, ekstraksi fitur citra satelit, hingga analisis clustering, klasifikasi, dan deployment model.
+Proyek ini dibagi menjadi beberapa modul yang saling terhubung mulai dari scraping data, ekstraksi fitur citra satelit, hingga analisis clustering, klasifikasi, dan deployment model.
 
 ---
 
@@ -40,5 +40,6 @@ Lihat detail rencana pengembangan di [📘 docs/roadmap.md](docs/roadmap.md)
 ---
 
 ## 🧠 Lisensi
+
 
 Proyek ini dirilis di bawah lisensi **MIT**.
