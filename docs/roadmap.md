@@ -1,18 +1,18 @@
 # 🚀 SKYLEARN – Roadmap
 
 ## ✅ Tahap 1: Scraping Data
-- [✔️] Scraping daftar sekolah
-- [✔️] Pembersihan & normalisasi data
+- [x] Scraping daftar sekolah
+- [x] Pembersihan & normalisasi data
 
 ## ✅ Tahap 2: Scraping Citra Satelit
-- [✔️] Pengambilan citra berdasarkan koordinat
-- [✔️] Otomatisasi download & logging
-- [✔️] Penyimpanan hasil dalam struktur folder terorganisir
+- [x] Pengambilan citra berdasarkan koordinat
+- [x] Otomatisasi download & logging
+- [x] Penyimpanan hasil dalam struktur folder terorganisir
 
 ## ✅ Tahap 3: Clustering
-- [✔️] Ekstraksi fitur dengan ResNet50/VGG16
-- [✔️] Reduksi dimensi (PCA)
-- [✔️] Clustering & visualisasi 3D interaktif
+- [x] Ekstraksi fitur dengan ResNet50/VGG16
+- [x] Reduksi dimensi (PCA)
+- [x] Clustering & visualisasi 3D interaktif
 
 ## 🔄 Tahap 4: Klasifikasi (On Going)
 - [ ] Pembuatan dataset labeled
